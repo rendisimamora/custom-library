@@ -1,3 +1,1 @@
-const CardProducts = require('./components/CardProducts')
-
-export { CardProducts }
+export { default as Banner } from './components/CardProducts.vue'
