@@ -1,3 +1,3 @@
-import CardProducts from './components/CardProducts'
+const CardProducts = require('./components/CardProducts')
 
 export { CardProducts }
